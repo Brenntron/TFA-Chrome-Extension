@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Is the Force awake?",
   "version": "0.0.1",
-  "description": "A chrome extension that will tell the user if Star Wars the Force awakens has premiered.",
+  "description": "A chrome extension that will tell the user if Star Wars the Force Awakens has premiered.",
   "browser_action": {
     "default_icon": "assets/images/Death-Star-icon.png",
     "default_popup": "popup.html"
