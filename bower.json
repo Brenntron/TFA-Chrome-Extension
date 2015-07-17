@@ -1,0 +1,22 @@
+{
+  "name": "TFA-Chrome-Extension",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Brenntron/TFA-Chrome-Extension",
+  "authors": [
+    "Brennan Willingham <brennanw22@gmail.com>"
+  ],
+  "description": "A chrome extension that tells the user if Star Wars The Force Awakens has premiered.",
+  "main": "popup.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "moment": "~2.10.3",
+    "jquery": "~2.1.4"
+  }
+}
